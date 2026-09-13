@@ -51,6 +51,7 @@ backend/test_hang/
 node_modules/
 frontend/node_modules/
 frontend/dist/
+frontend/.vite/
 dist/
 dist-ssr/
 *.local
@@ -66,3 +67,4 @@ yarn-error.log*
 *.swo
 .DS_Store
 Thumbs.db
+Astrid-main/

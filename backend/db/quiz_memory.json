@@ -1,0 +1,202 @@
+{
+  "which of the following is not one of the four areas of the performance efficiency pillar of the aws well architected framework select the be": {
+    "question": "Which of the following is not one of the four areas of the performance efficiency pillar of the AWS Well-Architected Framework? (Select the best answer.)",
+    "correct_options": [
+      "Traceability"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "1.\n\nNumber correct: 1 out of 1\n\nKEYBOARD NAVIGATION\nMonitoring\nTraceability\nSelection\nTradeos\nWhich o the ollowing is not one o the our areas o the perormance eciency pillar \no the AWS Well-Architected Framework? (Select the best answer.)\n\n\nCorrect\nTraceability is not one o the our areas "
+  },
+  "which of the following is a principle when designing cloud based systems select the best answer": {
+    "question": "Which of the following is a principle when designing cloud-based systems? (Select the best answer.)",
+    "correct_options": [
+      "Assume everything will fail"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "2.\n\nNumber correct: 2 out of 2\n\nKEYBOARD NAVIGATION\nUse as many services as possible\nAssume everything will ail\nMake inrequent, large batch changes\nBuild tightly-coupled components\nWhich o the ollowing is a principle when designing cloud-based systems? (Select the \nbest answer.)\n\n\nCorrect\nAssume"
+  },
+  "which of the following are pillars of the aws well architected framework choose three": {
+    "question": "Which of the following are pillars of the AWS Well-Architected Framework? (Choose three.)",
+    "correct_options": [
+      "Security",
+      "Operational Excellence",
+      "Cost Optimization"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "3.\n\nNumber correct: 3 out of 3\n\nKEYBOARD NAVIGATION\nCost Optimization\nOperational Excellence\nPersistence\nSecurity\nWhich o the ollowing are pillars o the AWS Well-Architected Framework? (Choose \nthree.)\n\nCorrect\nOperational excellence, security, and cost \noptimization are pillars o the AWS Well-A"
+  },
+  "which design principles are recommended when considering performance efficiency choose two": {
+    "question": "Which design principles are recommended when considering performance efficiency? (Choose two.)",
+    "correct_options": [
+      "Democratize advanced technologies",
+      "Use serverless architectures"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "4.\n\nNumber correct: 4 out of 4\n\nKEYBOARD NAVIGATION\nAnalyze and attribute expenditure\nEnable traceability\nDemocratize advanced technologies\nUse serverless architectures\nMatch supply with demand\nWhich design principles are recommended when considering perormance eciency? \n(Choose two.)\n\nCorrect\n“Us"
+  },
+  "aws trusted advisor provides insight regarding which five categories of an aws account select the best answer": {
+    "question": "AWS Trusted Advisor provides insight regarding which five categories of an AWS account? (Select the best answer.)",
+    "correct_options": [
+      "Performance",
+      "cost optimization",
+      "security",
+      "fault tolerance",
+      "service limits"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "5.\n\nNumber correct: 5 out of 5\n\nKEYBOARD NAVIGATION\nPerormance, cost optimization, access control, connectivity, security\nPerormance, cost optimization, security, ault tolerance, service limits\nSecurity, access control, high availability, perormance, service limits\nSecurity, ault tolerance, hig"
+  },
+  "what is the focus of the sustainability pillar of the well architected framework select the best answer": {
+    "question": "What is the focus of the sustainability pillar of the Well-Architected Framework? (Select the best answer.)",
+    "correct_options": [
+      "Minimizing the environmental impacts of running cloud workloads"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "6.\n\nNumber correct: 6 out of 6\n\nKEYBOARD NAVIGATION\nAutomating updates to cloud workloads\nAvoiding unnecessary costs in cloud workloads\nMinimizing the environmental impacts o running cloud workloads\nDesigning workloads that recover quickly rom ailures\nWhat is the ocus o the sustainability pilla"
+  },
+  "after you move to the aws cloud you want to ensure that the right security settings are put in place which online tool can assist in securit": {
+    "question": "After you move to the AWS Cloud, you want to ensure that the right security settings are put in place. Which online tool can assist in security compliance? (Select the best answer.)",
+    "correct_options": [
+      "AWS Trusted Advisor"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "7.\n\nNumber correct: 7 out of 7\n\nKEYBOARD NAVIGATION\nAmazon CloudWatch\nAWS Trusted Advisor\nAWS Support\nAmazon Kinesis\nAter you move to the AWS Cloud, you want to ensure that the right security settings \nare put in place. Which online tool can assist in security compliance? (Select the best \nanswer.)"
+  },
+  "which of the following is a measure of your systems ability to provide functionality when desired by the user select the best answer": {
+    "question": "Which of the following is a measure of your system’s ability to provide functionality when desired by the user? (Select the best answer.)",
+    "correct_options": [
+      "Reliability"
+    ],
+    "incorrect_attempts": [
+      [
+        "Availability"
+      ]
+    ],
+    "feedback": "8.\n\nNumber correct: 8 out of 8\n\nKEYBOARD NAVIGATION\nPerormance eciency\nReliability\nFault Tolerance\nAvailability\nWhich o the ollowing is a measure o your system’s ability to provide unctionality \nwhen desired by the user? (Select the best answer.)\n\n\nCorrect\nReliability is a measure o your syst"
+  },
+  "what is defined as the ability for a system to remain operational even if some of the components of that system fail select the best answer": {
+    "question": "What is defined as the ability for a system to remain operational even if some of the components of that system fail? (Select the best answer.)",
+    "correct_options": [
+      "Fault tolerance"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "9.\n\nNumber correct: 9 out of 9\n\nKEYBOARD NAVIGATION\nHigh durability\nHigh availability\nFault tolerance\nHigh durability\nWhat is dened as the ability or a system to remain operational even i some o the \ncomponents o that system ail? (Select the best answer.)\n\n\n\nCorrect\nFault tolerance is the abil"
+  },
+  "which of the following must be specified when launching a new amazon elastic compute cloud amazon ec2 windows instance choose two": {
+    "question": "Which of the following must be specified when launching a new Amazon Elastic Compute Cloud (Amazon EC2) Windows instance? (Choose two)",
+    "correct_options": [
+      "Amazon Machine Image (AMI)",
+      "Amazon EC2 instance type"
+    ],
+    "incorrect_attempts": []
+  },
+  "which of the following best describes a system that can withstand some measures of degradation experiences minimal downtime and requires min": {
+    "question": "Which of the following best describes a system that can withstand some measures of degradation, experiences minimal downtime, and requires minimal human intervention? (Select the best answer.)",
+    "correct_options": [
+      "Highly available"
+    ],
+    "incorrect_attempts": [
+      [
+        "Fault-tolerant"
+      ]
+    ],
+    "feedback": "10.\n\nNumber correct: 10 out of 10\n\nKEYBOARD NAVIGATION\nHighly available\nElastic\nFault-tolerant\nScalable\nWhich o the ollowing best describes a system that can withstand some measures o \ndegradation, experiences minimal downtime, and requires minimal human \nintervention? (Select the best answer.)\n\n"
+  },
+  "there is an audit at your company and they need to have a log of all access to aws resources in the account which of the following services ": {
+    "question": "slide: There is an audit at your company and they need to have a log of all access to AWS resources in the account. Which of the following services can assist in providing these details? (Select the b",
+    "correct_options": [
+      "AWS CloudTrail"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "8.\n\nNumber correct: 8 out of 8\n\nKEYBOARD NAVIGATION\nAmazon Simple Notication Service (Amazon SNS)\nAmazon Elastic Compute Cloud (Amazon EC2)\nAWS CloudTrail\nAmazon CloudWatch\nThere is an audit at your company and they need to have a log o all access to AWS \nresources in the account. Which o the ol"
+  },
+  "in elastic load balancing when the load balancer detects an unhealthy target which of the following are true choose three": {
+    "question": "slide: In Elastic Load Balancing, when the load balancer detects an unhealthy target, which of the following are true? (Choose three.)\n\nCorrect\n\nWhen the load balancer detects an unhealthy target, it ",
+    "correct_options": [
+      "Stops routing traffic to that target",
+      "Resumes routing traffic when it detects that the target is healthy again",
+      "Routes traffic to a healthy target"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "9.\n\nNumber correct: 9 out of 9\n\nKEYBOARD NAVIGATION\nRoutes trac to a healthy target\nResumes routing trac when manually restarted\nResumes routing trac when it detects that the target is healthy again\nTriggers an alarm\nStops routing trac to that target\nIn Elastic Load Balancing, when the load bala"
+  },
+  "what are the three types of load balancers that elastic load balancing offers": {
+    "question": "slide: What are the three types of load balancers that Elastic Load Balancing offers?\n\nIncorrect\n\nELB offers three types of load balancers: Application Load Balancer, Network Load Balancer, and Classi",
+    "correct_options": [
+      "Classic Load Balancer"
+    ],
+    "incorrect_attempts": [
+      [
+        "Application Load Balancer",
+        "Network Load Balancer"
+      ],
+      [
+        "Classic Load Balancer"
+      ]
+    ],
+    "feedback": "10.\n\nNumber correct: 9 out of 10\n\nKEYBOARD NAVIGATION\nAuto Scaling Load Balancer\nClassic Load Balancer\nCompute Load Balancer\nNetwork Load Balancer\nApplication Load Balancer\nInternet Load Balancer\nWhat are the three types o load balancers that Elastic Load Balancing oers?\nIncorrect\nELB oers three "
+  },
+  "which of the following aws tools help your application scale up or down based on demand choose two": {
+    "question": "slide: Which of the following AWS tools help your application scale up or down based on demand? (Choose two.)\n\nCorrect\n\nAmazon EC2 Auto Scaling and Elastic Load Balancing help your application scale u",
+    "correct_options": [
+      "Amazon EC2 Auto Scaling",
+      "Elastic Load Balancing"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "1.\n\nNumber correct: 1 out of 1\n\nKEYBOARD NAVIGATION\nAWS Cong\nElastic Load Balancing\nAWS CloudFormation\nAmazon EC2 Auto Scaling\nAvailability Zones\nWhich o the ollowing AWS tools help your application scale up or down based on \ndemand? (Choose two.)\n\nCorrect\nAmazon EC2 Auto Scaling and Elastic Load"
+  },
+  "which service would you use to send alerts based on amazon cloudwatch alarms select the best answer": {
+    "question": "slide: Which service would you use to send alerts based on Amazon CloudWatch alarms? (Select the best answer.)\n\nCorrect\n\nAmazon SNS is the service you'd use to send alerts based on Amazon CloudWatch a",
+    "correct_options": [
+      "Amazon Simple Notification Service (Amazon SNS)"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "2.\n\nNumber correct: 2 out of 2\n\nKEYBOARD NAVIGATION\nAmazon Route 53\nAWS Trusted Advisor\nAWS CloudTrail\nAmazon Simple Notication Service (Amazon SNS)\nWhich service would you use to send alerts based on Amazon CloudWatch alarms? \n(Select the best answer.)\nCorrect\nAmazon SNS is the service you'd use t"
+  },
+  "which of the following are characteristics of amazon ec2 auto scaling choose three": {
+    "question": "slide: Which of the following are characteristics of Amazon EC2 Auto Scaling? (Choose three.)\n\nCorrect\n\nAmazon EC2 Auto Scaling responds to changing conditions by adding or terminating instances, laun",
+    "correct_options": [
+      "Responds to changing conditions by adding or terminating instances",
+      "Launches instances from a specified Amazon Machine Image (AMI)",
+      "Enforces a minimum number of running Amazon EC2 instances"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "3.\n\nNumber correct: 3 out of 3\n\nKEYBOARD NAVIGATION\nEnorces a minimum number o running Amazon EC2 instances\nLaunches instances rom a specied Amazon Machine Image (AMI)\nDelivers push notications\nResponds to changing conditions by adding or terminating instances\nOnly supports dynamic scaling\nWhic"
+  },
+  "which of the following must be configured on an elastic load balancing load balancer to expect incoming traffic select the best answer": {
+    "question": "slide: Which of the following must be configured on an Elastic Load Balancing load balancer to expect incoming traffic? (Select the best answer.)\n\nCorrect\n\nYou configure the load balancer to accept in",
+    "correct_options": [
+      "A listener"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "4.\n\nNumber correct: 4 out of 4\n\nKEYBOARD NAVIGATION\nAn instance\nA listener\nA network interace\nA port\nWhich o the ollowing must be congured on an Elastic Load Balancing load balancer \nto expect incoming trac? (Select the best answer.)\n\n\nCorrect\nYou congure the load balancer to accept incoming \n"
+  },
+  "which of the following elements are used to create an amazon ec2 auto scaling launch configuration choose three": {
+    "question": "slide: Which of the following elements are used to create an Amazon EC2 Auto Scaling launch configuration? (Choose three.)\n\nCorrect\n\nYou specify the AMI, instance type, and EBS volumes when you create",
+    "correct_options": [
+      "Amazon Machine Image (AMI)",
+      "Instance type",
+      "Amazon Elastic Block Store (Amazon EBS) volumes"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "5.\n\nNumber correct: 5 out of 5\n\nKEYBOARD NAVIGATION\nAmazon Elastic Block Store (Amazon EBS) volumes\nVirtual private cloud (VPC) and subnets\nInstance type\nLoad balancer\nAmazon Machine Image (AMI)\nWhich o the ollowing elements are used to create an Amazon EC2 Auto Scaling \nlaunch conguration? (Choo"
+  },
+  "which of the following services can help you collect important metrics from amazon relational database service amazon rds and amazon elastic": {
+    "question": "slide: Which of the following services can help you collect important metrics from Amazon Relational Database Service (Amazon RDS) and Amazon Elastic Compute Cloud (Amazon EC2) instances? (Select the ",
+    "correct_options": [
+      "Amazon CloudWatch"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "6.\n\nNumber correct: 6 out of 6\n\nKEYBOARD NAVIGATION\nAmazon EC2 Auto Scaling\nAWS CloudTrail\nAmazon CloudWatch\nAmazon CloudSearch\nAmazon CloudFront\nWhich o the ollowing services can help you collect important metrics rom Amazon \nRelational Database Service (Amazon RDS) and Amazon Elastic Compute Cl"
+  },
+  "which of the following are elements of an auto scaling group choose three": {
+    "question": "slide: Which of the following are elements of an Auto Scaling group? (Choose three.)\n\nCorrect\n\nYou can specify the minimum and maximum number of instances in each Auto Scaling group as well as desired",
+    "correct_options": [
+      "Minimum size",
+      "Desired capacity",
+      "Maximum size"
+    ],
+    "incorrect_attempts": [],
+    "feedback": "7.\n\nNumber correct: 7 out of 7\n\nKEYBOARD NAVIGATION\nMaximum size\nDesired capacity\nHealth checks\nMinimum size\nWhich o the ollowing are elements o an Auto Scaling group? (Choose three.)\n\nCorrect\nYou can speciy the minimum and maximum number \no instances in each Auto Scaling group as well as \ndesi"
+  }
+}
