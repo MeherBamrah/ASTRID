@@ -1,0 +1,15 @@
+{
+  "which of the following must be specified when launching a new amazon ec2 windows instance choose two": {
+    "question": "10. Which of the following must be specified when launching a new Amazon EC2 Windows instance? (Choose two)",
+    "correct_options": [
+      "Amazon Machine Image (AMI)",
+      "Amazon EC2 instance type"
+    ],
+    "incorrect_attempts": [
+      [
+        "Password for administrator"
+      ]
+    ],
+    "feedback": "That is incorrect. The correct answer is: Amazon Machine Image (AMI) and Amazon EC2 instance type."
+  }
+}
