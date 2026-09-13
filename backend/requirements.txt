@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+playwright==1.47.0
+groq==0.11.0
+supabase>=2.31.0
+sentence-transformers==3.1.1
+langgraph==0.2.34
+langchain-core==0.3.10
+python-dotenv==1.0.1
+websockets==13.1
+pydantic==2.9.2
+numpy==1.26.4
