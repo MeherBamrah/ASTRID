@@ -5,7 +5,7 @@ what needs to happen, browses the real web with Playwright/CDP, calls AWS
 directly when a task has an API, checks its own work against real evidence
 before declaring success, and remembers what it learned for next time.
 
-## 1. Agent architecture
+## 1. Agent architecture:
 
 Astrid uses an actor-critic style pipeline with three cooperating agents plus
 a memory layer, rather than one model trying to plan, act, and grade itself.
@@ -87,7 +87,7 @@ Supabase specifically plays three distinct roles, not one:
 Anything with a stable API is routed to the cloud engine; the browser engine
 is reserved for surfaces that only exist as a UI.
 
-## 2. Web application architecture
+## 2. Web application architecture:
 
 ```
 User ── Google login (Supabase Auth)
@@ -127,7 +127,7 @@ reads from and writes to Supabase, so it scales horizontally on Cloud Run.
 auto-creates a `profiles` row (name, email, avatar) on first sign-up, so no
 separate profile-management code is needed.
 
-## 3. Tech stack
+## 3. Tech stack:
 
 | Layer | Technology |
 |---|---|
@@ -168,7 +168,7 @@ npm install @supabase/supabase-js react react-dom
 npm start
 ```
 
-## 5. Deploy (Google Cloud, free tier)
+## 5. Deploy (Google Cloud, free tier):
 ```bash
 cd backend
 gcloud run deploy astrid-backend \
@@ -180,7 +180,7 @@ npm run build
 firebase deploy
 ```
 
-## 6. Cost
+## 6. Cost:
 Everything above runs on free tiers today: Supabase free project, Groq free
 tier, Cloud Run free monthly quota, Firebase Hosting free tier — $0 to start.
 Upgrade path later: swap Groq for a paid model, upgrade the Supabase plan if
